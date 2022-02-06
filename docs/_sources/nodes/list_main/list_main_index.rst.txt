@@ -3,7 +3,7 @@ List Main
 *********
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    constant
    decompose
@@ -15,3 +15,4 @@ List Main
    sum_mk2
    zip
    statistics
+   index

@@ -3,15 +3,12 @@ Number
 ******
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    curve_mapper
    exponential
    fibonacci
    float_to_int
-   formula3
-   formula_mk4
-   formula_interpolate
    list_input
    mix_numbers
    mix_inputs
